@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+python-jose
+passlib[bcrypt]
+bcrypt==4.0.1
+pandas
+scikit-learn
+python-multipart
+email-validator
+reportlab
+openpyxl
+pydantic-settings
+numpy
